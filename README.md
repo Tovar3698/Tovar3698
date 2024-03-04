@@ -9,4 +9,7 @@ soy un programador comprometido, creativo y orientado a resultados, con una sól
 # Mis habilidades como programador.
 Tengo habilidades sólidas en bases de datos y la integración de sistemas. Mi enfoque es siempre encontrar soluciones elegantes y eficientes para los desafíos técnicos que se presentan. Además, me apasiona aprender y mantenerme actualizado con las últimas tecnologías y tendencias en el campo de la programación. 
 
+ # Desarrollador de Software
+ # Acerca de mí 
 
+ Soy un desarrollador de software con experiencia y conocimientos sólidos en desarrollo backend y un sólido dominio de Java, Python, PHP, SQL Server y MySQL. así como un título de técnico en programación de software.
