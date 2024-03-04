@@ -17,7 +17,8 @@ Tengo habilidades sólidas en bases de datos y la integración de sistemas. Mi e
 
 
 # Proyectos 
- . Duracion: 6 meses 
+ . Duracion: 6 meses  
+ . Panificadora pan al piso
  . Tecnologias Utilizadas 
       . Lenguajes de Programación:
         El aplicativo web SCI utiliza CSS y HTML para la interfaz de usuario (front-end), HTML, PHP y JavaScript (back-end) para el funcionamiento de la misma.
