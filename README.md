@@ -13,3 +13,13 @@ Tengo habilidades sólidas en bases de datos y la integración de sistemas. Mi e
  # Acerca de mí 
 
  Soy un desarrollador de software con experiencia y conocimientos sólidos en desarrollo backend y un sólido dominio de Java, Python, PHP, SQL Server y MySQL. así como un título de técnico en programación de software.
+
+
+
+# Proyectos 
+ . Duracion: 6 meses 
+ . Tecnologias Utilizadas 
+      . Lenguajes de Programación:
+        El aplicativo web SCI utiliza CSS y HTML para la interfaz de usuario (front-end), HTML, PHP y JavaScript (back-end) para el funcionamiento de la misma.
+        Servidor Web:
+        Tiene conexión a una base de datos en MySQL, la aplicación se ejecuta en un servidor interno XAMPP.
